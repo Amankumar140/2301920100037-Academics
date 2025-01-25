@@ -7,5 +7,6 @@ This repository contains solutions to daily DSA questions assigned by the colleg
 ## Repository Structure 📁
 
 The repository is structured as follows:
-├── Arrays/ │ ├── question1 │ ├── question2 │ ├── README.md
-├── LinkedList/ │ ├── question1 │ ├── question2 │ ├── README.md   
+
+├── Arrays/ │ ├── question1 │ ├── question2 │ ├── question3 │ ├── question4 │ ├── README.md
+ 
